@@ -1,0 +1,22 @@
+<Routes>
+    <Route>
+        <type>get</type>
+        <target>index.php</target>
+        <request>/</request>
+    </Route>
+    <Route>
+        <type>get</type>
+        <target>array.php</target>
+        <request>/array</request>
+    </Route>
+    <Route>
+        <type>get</type>
+        <target>hashmap.php</target>
+        <request>/hashmap</request>
+    </Route>
+    <Route>
+        <type>get</type>
+        <target>string.php</target>
+        <request>/string</request>
+    </Route>
+</Routes>
